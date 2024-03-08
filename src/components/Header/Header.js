@@ -10,9 +10,11 @@ import "./Header.scss";
 
 
 
+
 const Header = () => {
   return (
-    <header className="header container">              
+    <header className="header container">  
+           
       {/* <div className="container"> */}
             <TopHeader />      
         <div className="header-wrapper">
